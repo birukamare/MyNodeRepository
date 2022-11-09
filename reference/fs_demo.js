@@ -4,7 +4,7 @@ const path = require('path')
 // //creating a folder
 // fs.mkdir(path.join(__dirname, 'test'), {}, err=>{
 //     if(err) throw err;
-//     console.log('Folder created...');
+//     console.log('Folder created...'); 
 // });
 
 

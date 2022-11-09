@@ -9,7 +9,7 @@ console.log(myUrl.toString());
 //Host (root domain)
 console.log(myUrl.host);
 //HostName does not get port
-console.log(myUrl.hostname);
+console.log(myUrl.hostname); 
 //PathName
 console.log(myUrl.pathname);
 //Serialized query

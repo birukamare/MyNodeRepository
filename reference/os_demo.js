@@ -6,7 +6,7 @@ console.log(os.platform())
 //CPU Archtecture
 console.log(os.arch());
 
-//CPU Core Info
+//CPU Core Info 
 console.log(os.cpus());
 
 //Free memory

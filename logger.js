@@ -7,7 +7,7 @@ class Logger extends EventEmitter{
         //Call event
         this.emit('message', {id: uuid.v4(), msg});
     }
-}
+} 
 
 //module.exports = Logger; // we do this when we want to use the class from another file
 //Then we define it like the following const Logger = require('./logger');
