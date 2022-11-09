@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs_note",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birukamare/MyRepository.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "Biruk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birukamare/MyRepository/issues"
+  },
+  "homepage": "https://github.com/birukamare/MyRepository#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
