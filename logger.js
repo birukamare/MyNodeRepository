@@ -14,4 +14,4 @@ class Logger extends EventEmitter{
 
 const logger = new Logger(); //Logger is a class so we need to instantiate it
 logger.on('message', data=> console.log('Called Listener: ', data));
-logger.log('Hello World'); 
+logger.log('Hello World');  

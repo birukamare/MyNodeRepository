@@ -14,5 +14,5 @@ console.log(path.extname(__filename))
 console.log(path.parse(__filename).base)
 
 //Concatenate paths i.e. the__dirname and /test/hello/html
-console.log(path.join(__dirname, 'test', 'hello.html'));
+console.log(path.join(__dirname, 'test', 'hello.html')); 
 

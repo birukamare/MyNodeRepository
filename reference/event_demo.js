@@ -10,4 +10,4 @@ const myEmitter = new MyEmitter();
 myEmitter.on('event', ()=>console.log('Event Fired'));
 
 //Init event
-myEmitter.emit('event');
+myEmitter.emit('event'); 
